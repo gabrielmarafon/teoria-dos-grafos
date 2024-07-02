@@ -8,6 +8,5 @@
   "extensions": [
     "vscjava.vscode-java-pack"
   ],
-  "forwardPorts": [],
-  "postCreateCommand": "mvn clean install"
+  "forwardPorts": []
 }
